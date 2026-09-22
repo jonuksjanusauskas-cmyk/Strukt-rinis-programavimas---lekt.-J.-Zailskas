@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+int a;
+int b;  
+int c;
+int d;
+int e;
+
+cin >> a;
+cin >> b;
+cin >> c;
+cin >> d;
+cin >> e;
+
+cout<<  (a + b + c + d + e ) / 5 << endl;
+    return 0;
+}

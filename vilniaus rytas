@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    string pavadinimas= "Vilniaus rytas";
+    string savininkas= "Darius Gudelis ir kiti klubo dalininkai";
+    string arena= "Vilniaus arena";
+    int ikurimas= "1963";
+    int vietos= "13 000"
+
+    cout<< "Pavadinimas:"<< pavadinimas<< endl;
+    cout<< "Savininkai:"<< savininkai << endl;
+    cout<< "Arena:"<< arena << endl;
+    cout<< "Ikurimo metai:"<< ikurimas << endl;
+    cout<< "Vietu skaicius"<< vietos << endl;
+
+
+    return 0;
+}

@@ -1,0 +1,18 @@
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string marke= "opelis";
+    string modelis= "zafira";
+    string spalva= "sidabrine"
+    int metai= "2010"
+    double litrazas= "2.0"
+
+    cout<<"marke"<< marke << endl;
+    cout<< "modelis"<< zafira << endl;
+    cout<< "Spalva:"<< sapalva << endl;
+    cout<< "metai:"<< metai << endl;
+    cout << "Litrazas:"<< litrazas << endl;
+
+    return 0;
+}
