@@ -1,0 +1,23 @@
+#include <iostream>
+#include <format>
+using namespace std;
+ int main {
+int pazimys1 = 5;
+int pazimys2 = 4;
+int pazimys3 = 6;
+int pazimys4 = 7;
+
+
+double vidurkis = (pazimys1 + pazimys2 + pazimys3 + pazimys4) /4.0;
+
+cout<< "pazimiu vidurkis"<< vidurkis << endl;
+ if (vidurkis >= 5)
+
+ {
+    cout<< ( "vidurkis teigiamas ")<< vidurkis << 
+    
+ }
+
+
+return 0;
+ }
