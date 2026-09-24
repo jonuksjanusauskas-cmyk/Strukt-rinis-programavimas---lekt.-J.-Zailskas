@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    int pazymys = 8;
+
+    if (pazymys == 10) {
+        cout << "Puiku" << endl;
+    }
+    else if (pazymys >= 9) {
+        cout << "Labai gerai" << endl;
+    }
+    else if (pazymys >= 7) {
+        cout << "Gerai" << endl;
+    }
+    else if (pazymys >= 5) {
+        cout << "Patenkinamai" << endl;
+    }
+    else {
+        cout << "Egzaminas neislaikytas" << endl;
+    }
